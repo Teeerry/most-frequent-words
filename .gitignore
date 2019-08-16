@@ -1,5 +1,13 @@
 # Prerequisites
 *.d
+*build*
+*.out
+CMakeCache.txt
+CMaeFiles
+cmake_install.cmake
+*.kdev4
+*.DS*
+.idea*
 
 # Compiled Object files
 *.slo
